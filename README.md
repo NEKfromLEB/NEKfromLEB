@@ -39,6 +39,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=fff)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff)
 
+
+## Feel free to message me and to start building our future together.
 <!--
 **NEKfromLEB/NEKfromLEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
