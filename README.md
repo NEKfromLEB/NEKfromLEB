@@ -21,6 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=fff)
 
 <!-- Frameworks / Tools -->
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
@@ -31,6 +32,9 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=ff9900)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=fff)
+![watchOS](https://img.shields.io/badge/watchOS-000000?logo=apple&logoColor=fff)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff)
 
 <!-- Libraries -->
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
